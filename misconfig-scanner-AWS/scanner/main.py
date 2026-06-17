@@ -7,8 +7,8 @@ across IAM, S3, EC2, RDS, and networking.
 Usage:
     python -m scanner.main --profile default --region us-east-1
     python -m scanner.main --output-format html --output-file report.html
-    python -m scanner.main --checks iam,s3          # run specific checks only
-    python -m scanner.main --severity HIGH,CRITICAL  # filter by severity
+    python -m scanner.main --checks iam,s3         
+    python -m scanner.main --severity HIGH,CRITICAL  
 """
 
 import argparse
