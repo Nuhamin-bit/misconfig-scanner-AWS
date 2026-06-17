@@ -73,7 +73,7 @@ Scan complete — 14 findings
   Scanned: 2024-11-15T02:00:00Z  |  Region: us-east-1
 ======================================================================
 
-🔴 CRITICAL (3)
+WHEN IT IS  CRITICAL (3)
 --------------------------------------------------
   [IAM-001] Root account does not have MFA enabled
   Resource:    arn:aws:iam::root
